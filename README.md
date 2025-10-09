@@ -3,7 +3,7 @@
 # Hi, I'm Dhanashree 👩‍💻  
 Passionate about Data Science, Full Stack Web Development, MERN Stack & Problem Solving  
 💡 Exploring Machine Learning & AI for impactful applications  
-📫 Reach me at: [LinkedIn](your-link) | [Email](mailto:your-email)  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dhanashree-sul-513546294/) | [Email](mailto:suldhanashree13@gmail.com)  
 ⚡ Fun fact: I love turning data into stories 📊  
 
 ### 🚀 Tech Stack  
@@ -16,10 +16,10 @@ Passionate about Data Science, Full Stack Web Development, MERN Stack & Problem 
 
 
 ### 🏅 Coding Profiles
-- [LeetCode](https://leetcode.com/your-username/) 🟢  
-- [Codeforces](https://codeforces.com/profile/your-username) 🔵  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username) 🟠  
-- [HackerRank](https://www.hackerrank.com/your-username) 🟢  
+- [LeetCode](https://leetcode.com/u/Dhanashree__13/) 🟢  
+- [Codechef](https://www.codechef.com/users/dhanashree50) 🔵  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/suldhanags2z/) 🟠  
+- [HackerRank](https://www.hackerrank.com/profile/suldhanashree13) 🟢  
 
 ### 📈 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanashreeSSul&show_icons=true&theme=radical)  
