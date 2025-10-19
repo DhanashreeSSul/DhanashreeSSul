@@ -1,4 +1,19 @@
 ## Hi there 👋
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="100%" />
+</p>
+
+──────────────────────────────────────────────
+|    [Your Photo]                             |
+|                                              |
+|    𝗗𝗵𝗮𝗻𝗮𝘀𝗵𝗿𝗲𝗲 𝗦𝘂𝗹                         |
+|    Data Science | Full Stack Development | AI Enthusiast   |
+|                                              |
+|    ⚙️ Machine Learning  •  Web Development  •  Data Analysis |
+──────────────────────────────────────────────
+
+---
 
 # Hi, I'm Dhanashree 👩‍💻  
 Passionate about **Data Science**, **Full Stack Web Development**, **MERN Stack**, and **Problem Solving**  
@@ -63,23 +78,51 @@ Passionate about **Data Science**, **Full Stack Web Development**, **MERN Stack*
 
 ---
 
-### 💻 Projects  
 
-- 🎵 [Music Generation using MIDI & Streamlit](https://github.com/DhanashreeSSul/music-generation) — Built an AI-based music generator using **MIDI data** and **Streamlit UI**.  
-- 🔐 [Crime Prediction for Women Safety](https://github.com/DhanashreeSSul/Crime-Prediction) — Power BI dashboard and Python-based ML model to analyze and predict **crime patterns across Indian states**.  
-- 🌐 [TCP-UDP Protocol Simulation](https://github.com/DhanashreeSSul/tcp-udp-protocol-simulation) — Developed using **Wireshark**, **Tkinter UI**, and **Python sockets** for client-server communication.  
-- 💸 [Wallet Socket System](https://github.com/DhanashreeSSul/wallet-socket-system) — Transaction-based app using **Python Tkinter** with **real-time socket connections**.  
-- 🤖 [DPR Analysis (SIH Project)](https://github.com/DhanashreeSSul/SIH_Team_Nexora_) — Smart India Hackathon project for **automated DPR quality assessment using AI**.  
-- 🧮 [Go Calculator App](https://github.com/DhanashreeSSul/go-calculator) — Simple yet efficient **calculator application built with Go language**.  
-- ☁️ [AWS IAM Connector](https://github.com/DhanashreeSSul/aws-iam-connector) — Tool using **Go language** to fetch and analyze **AWS IAM user permissions**.  
-- 💻 [ACM-W Website](https://github.com/DhanashreeSSul/ACM-W_Website) — Website developed for ACM-W chapter with **JavaScript** and modern UI.  
-- 📊 [DMW Assignments Dashboard](https://github.com/DhanashreeSSul/DMWAssignments) — **Power BI** dashboards for various **data visualization use cases**.  
-- 🌐 [RJGF Website](https://github.com/DhanashreeSSul/RJGF) — Official website for **Raveendra Jadhav Global Foundation**, built using **HTML, CSS, JS, and responsive design**.  
-- 🌱 [Community Engagement Project (KisanVikas)](https://github.com/DhanashreeSSul/Community_Engagement_Project) — A **platform for farmers** with government schemes, crop guidance, and profile dashboards.  
-- 📈 [Python Mini Project](https://github.com/DhanashreeSSul/python-mini-project) — Data analysis using **Pandas, Scikit-learn, Matplotlib, and Seaborn**.  
+## 💼 Projects  
+
+1. 🎵 [**Music Generation using MIDI & Streamlit**](https://github.com/DhanashreeSSul/music-midi-streamlit)  
+   → AI-powered music generation app using deep learning and Streamlit for the interface.
+
+2. 🧠 [**Mini Project (Python ML)**](https://github.com/DhanashreeSSul/python-mini-project)  
+   → Data analysis and ML models using Pandas, Scikit-learn, Matplotlib, and Seaborn.
+
+3. 🌾 [**Community Engagement Project – KisanVikas**](https://github.com/DhanashreeSSul/community-engagement-project)  
+   → Web platform for farmers to access crop guidance and government schemes.
+
+4. 🏢 [**RJGF Website**](https://github.com/DhanashreeSSul/RJGF)  
+   → Responsive company website built with Handlebars, CSS, and Node.js.
+
+5. 📊 [**DMW Assignments Dashboard**](https://github.com/DhanashreeSSul/DMWAssignments)  
+   → Power BI dashboards for analytics and visualization.
+
+6. 💻 [**ACM-W Website**](https://github.com/DhanashreeSSul/ACM-W_Website)  
+   → Official ACM-W website developed using JavaScript and modern web tools.
+
+7. ☁️ [**AWS IAM Connector**](https://github.com/DhanashreeSSul/aws-iam-connector)  
+   → Go-based utility to fetch AWS user permissions and resource data.
+
+8. ➗ [**Go Calculator**](https://github.com/DhanashreeSSul/go-calculator)  
+   → Simple calculator app built using Go language.
+
+9. 🧾 [**SIH Team Nexora – DPR Analysis**](https://github.com/DhanashreeSSul/SIH_Team_Nexora_)  
+   → Smart India Hackathon project for AI-based DPR document evaluation.
+
+10. 💰 [**Wallet Socket System**](https://github.com/DhanashreeSSul/wallet-socket-system)  
+    → Transaction system built using Python and Tkinter GUI with socket programming.
+
+11. 🌐 [**TCP/UDP Protocol Simulation**](https://github.com/DhanashreeSSul/tcp-udp-protocol-simulation)  
+    → Network simulation using Wireshark, Tkinter UI, and Python socket programming.
+
+12. 🔍 [**Crime Prediction System**](https://github.com/DhanashreeSSul/Crime-Prediction)  
+    → Women safety project analyzing crime data across Indian states using Python and Power BI.
 
 ---
 
+## 📊 Activity Graph  
+
 ![Dhanashree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanashreeSSul&theme=react-dark)
+
+---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DhanashreeSSul&color=blue)
