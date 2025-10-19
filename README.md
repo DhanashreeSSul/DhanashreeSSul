@@ -1,12 +1,8 @@
 ## Hi there 👋
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="100%" />
-</p>
-
+<!-- Or smaller banner -->
+<img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="800" />
 ──────────────────────────────────────────────
-|    [Your Photo]                             |
-|                                              |
 |    𝗗𝗵𝗮𝗻𝗮𝘀𝗵𝗿𝗲𝗲 𝗦𝘂𝗹                         |
 |    Data Science | Full Stack Development | AI Enthusiast   |
 |                                              |
