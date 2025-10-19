@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # Hi, I'm Dhanashree 👩‍💻  
-Passionate about **Data Science**, **Full Stack Web Development**, **MERN Stack**, & **Problem Solving**  
-💡 Exploring **Machine Learning & AI** for impactful applications  
+Passionate about **Data Science**, **Full Stack Web Development**, **MERN Stack**, and **Problem Solving**  
+💡 Exploring **Machine Learning & AI** for impactful real-world applications  
 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanashree_Sul-blue?logo=linkedin)](https://www.linkedin.com/in/dhanashree-sul-513546294/) | [![Email](https://img.shields.io/badge/Email-suldhanashree13%40gmail.com-red?logo=gmail)](mailto:suldhanashree13@gmail.com)  
 ⚡ **Fun fact:** I love turning data into stories 📊  
 
@@ -10,29 +10,38 @@ Passionate about **Data Science**, **Full Stack Web Development**, **MERN Stack*
 
 ### 🚀 Tech Stack  
 
-**Languages & Frameworks:**  
+**💻 Languages & Frameworks:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=flat&logo=handlebarsdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat&logo=python&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-**Databases:**  
+**🗄️ Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-**Python Libraries & Tools:**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+**📊 Tools & Libraries:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -56,17 +65,21 @@ Passionate about **Data Science**, **Full Stack Web Development**, **MERN Stack*
 
 ### 💻 Projects  
 
-- 🌱 [KisanVikas](https://github.com/your-username/kisanvikas) — A platform for farmers featuring government schemes, crop guidance, and personalized dashboards.  
-- 📊 [Amazon Data Analysis](https://github.com/your-username/amazon-analysis) — Extracting sales insights using Python and SQL.  
-- 🤖 [DPR Quality Assessment](https://github.com/your-username/dpr-ai) — AI-powered document review and quality assessment system.  
-- 📘 [B-Tree and RBT File System Simulation](https://github.com/your-username/btree-rbt-filesystem) — Combined data structure implementation in C++.  
-- 💻 [E-Commerce SQL Analysis](https://github.com/your-username/ecommerce-sql-analysis) — Data analysis and reporting using MySQL.  
-- 📈 [Cancer Classification using ML](https://github.com/your-username/cancer-ml-classification) — Machine learning models for cancer type prediction.  
-- 🔐 [Secured AI-Enabled Digital Literacy Platform](https://github.com/your-username/secure-ai-digital-literacy) — Privacy-preserving AI platform for women empowerment.  
+- 🎵 [Music Generation using MIDI & Streamlit](https://github.com/DhanashreeSSul/music-generation) — Built an AI-based music generator using **MIDI data** and **Streamlit UI**.  
+- 🔐 [Crime Prediction for Women Safety](https://github.com/DhanashreeSSul/Crime-Prediction) — Power BI dashboard and Python-based ML model to analyze and predict **crime patterns across Indian states**.  
+- 🌐 [TCP-UDP Protocol Simulation](https://github.com/DhanashreeSSul/tcp-udp-protocol-simulation) — Developed using **Wireshark**, **Tkinter UI**, and **Python sockets** for client-server communication.  
+- 💸 [Wallet Socket System](https://github.com/DhanashreeSSul/wallet-socket-system) — Transaction-based app using **Python Tkinter** with **real-time socket connections**.  
+- 🤖 [DPR Analysis (SIH Project)](https://github.com/DhanashreeSSul/SIH_Team_Nexora_) — Smart India Hackathon project for **automated DPR quality assessment using AI**.  
+- 🧮 [Go Calculator App](https://github.com/DhanashreeSSul/go-calculator) — Simple yet efficient **calculator application built with Go language**.  
+- ☁️ [AWS IAM Connector](https://github.com/DhanashreeSSul/aws-iam-connector) — Tool using **Go language** to fetch and analyze **AWS IAM user permissions**.  
+- 💻 [ACM-W Website](https://github.com/DhanashreeSSul/ACM-W_Website) — Website developed for ACM-W chapter with **JavaScript** and modern UI.  
+- 📊 [DMW Assignments Dashboard](https://github.com/DhanashreeSSul/DMWAssignments) — **Power BI** dashboards for various **data visualization use cases**.  
+- 🌐 [RJGF Website](https://github.com/DhanashreeSSul/RJGF) — Official website for **Raveendra Jadhav Global Foundation**, built using **HTML, CSS, JS, and responsive design**.  
+- 🌱 [Community Engagement Project (KisanVikas)](https://github.com/DhanashreeSSul/Community_Engagement_Project) — A **platform for farmers** with government schemes, crop guidance, and profile dashboards.  
+- 📈 [Python Mini Project](https://github.com/DhanashreeSSul/python-mini-project) — Data analysis using **Pandas, Scikit-learn, Matplotlib, and Seaborn**.  
 
 ---
 
 ![Dhanashree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanashreeSSul&theme=react-dark)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DhanashreeSSul&color=blue)
-
