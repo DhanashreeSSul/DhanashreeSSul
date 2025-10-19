@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## HELLO
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="300" height="400" style="border-radius: 20px;" />
@@ -14,13 +13,11 @@
 <p align="center">
   ⚙️ Machine Learning • Web Development • Data Analysis
 </p>
-
 <hr style="border: 1px solid #ccc; width: 80%; margin: auto;" />
-
 
 ---
 
-# Hi, I'm Dhanashree 👩‍💻  
+# Hello, I'm Dhanashree!!  
 Passionate about **Data Science**, **Full Stack Web Development**, **MERN Stack**, and **Problem Solving**  
 💡 Exploring **Machine Learning & AI** for impactful real-world applications  
 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanashree_Sul-blue?logo=linkedin)](https://www.linkedin.com/in/dhanashree-sul-513546294/) | [![Email](https://img.shields.io/badge/Email-suldhanashree13%40gmail.com-red?logo=gmail)](mailto:suldhanashree13@gmail.com)  
