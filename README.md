@@ -1,13 +1,22 @@
 ## Hi there 👋
+
 <!-- Profile Banner -->
-<!-- Or smaller banner -->
-<img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="800" />
-──────────────────────────────────────────────
-|    𝗗𝗵𝗮𝗻𝗮𝘀𝗵𝗿𝗲𝗲 𝗦𝘂𝗹                         |
-|    Data Science | Full Stack Development | AI Enthusiast   |
-|                                              |
-|    ⚙️ Machine Learning  •  Web Development  •  Data Analysis |
-──────────────────────────────────────────────
+<p align="center">
+  <img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="500" height="500" style="border-radius: 20px;" />
+</p>
+
+<h1 align="center">𝗗𝗵𝗮𝗻𝗮𝘀𝗵𝗿𝗲𝗲 𝗦𝘂𝗹</h1>
+
+<p align="center">
+  <b>Data Science | Full Stack Development | AI Enthusiast</b>
+</p>
+
+<p align="center">
+  ⚙️ Machine Learning • Web Development • Data Analysis
+</p>
+
+<hr style="border: 1px solid #ccc; width: 80%; margin: auto;" />
+
 
 ---
 
