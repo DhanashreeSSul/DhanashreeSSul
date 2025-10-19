@@ -2,7 +2,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="500" height="500" style="border-radius: 20px;" />
+  <img src="https://github.com/DhanashreeSSul/DhanashreeSSul/blob/main/Dhanashree.png" alt="Dhanashree Sul" width="300" height="400" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">𝗗𝗵𝗮𝗻𝗮𝘀𝗵𝗿𝗲𝗲 𝗦𝘂𝗹</h1>
