@@ -96,7 +96,7 @@ A web platform helping farmers discover relevant government schemes and access a
 
 **Tech:** `Node.js` `Express.js` `Handlebars` `JavaScript`
 
-[Live Application]((https://kisanvikas.onrender.com/)) • [GitHub Repository](https://github.com/DhanashreeSSul/community-engagement-project)
+[Live Application](https://kisanvikas.onrender.com/) • [GitHub Repository](https://github.com/DhanashreeSSul/community-engagement-project)
 
 ---
 
